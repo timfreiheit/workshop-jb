@@ -2,3 +2,13 @@ out
 workspace.xml
 keys
 results.txt
+build/
+.gradle
+.idea
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
